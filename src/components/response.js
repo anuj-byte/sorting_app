@@ -1,0 +1,33 @@
+export const response = [
+    {
+    Rank:"1",
+    Points:"2043",
+    Name:"John",
+    Age:"23"
+  },
+    {
+    Rank:"4",
+    Points:"1023",
+    Name:"Agni",
+    Age:"21"
+    
+  },
+    {
+    Rank:"3",
+    Points:"221",
+    Name:"Rexy",
+    Age:"22"
+  },
+    {
+    Rank:"2",
+    Points:"9898",
+    Name:"Megha",
+    Age:"20"
+  },
+    {
+    Rank:"10",
+    Points:"1243",
+    Name:"Richa",
+    Age:"25"
+  },
+]
